@@ -1,27 +1,23 @@
 body{
     background-color: rgb(157, 219, 157);
 }
-top{
+.top{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-left{
-    display: flex;
-    flex-direction: column;
-    align-content: space-between;
-}
-text-1{
+
+.text-1{
     margin-top: 20px;
     color: green;
 }
-text-2{
+.text-2{
     font-family: 'Trebuchet MS';
 }
-text-3{
+.text-3{
     font-size: 50px;
 }
-text-4{
+.text-4{
     font-size: 11px;
     color: white;
 }
